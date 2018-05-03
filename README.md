@@ -1,5 +1,7 @@
 # Dotty Fuzzing results
 
+Obtained by running https://github.com/alexknvl/fuzzball.
+
 * `failed` - files that failed to compile at some point (not all will fail with the current `master` branch)
 * `success` - files that successfully compiled at some point
 * `minimized` - minimized bugs (will be updated as more are minimized)
@@ -7,7 +9,7 @@
 
 # Stats
 
-Each line below corresponds to a unique stacktrace signature. These stats are **current**, and were recently tested on `master` branch.
+Each line below corresponds to a unique stacktrace signature. These stats are **current**, and were recently tested on the `master` branch.
 
 ##### Glossary
  * `AE` - `AssertionError`
