@@ -9,7 +9,7 @@
 
 Each line below corresponds to a unique stacktrace signature.
 
-### Glossary
+##### Glossary
  * `AE` - `AssertionError`
  * `CCE` - `ClassCastException`
  * `E` - `java.lang.Error`
