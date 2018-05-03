@@ -1,0 +1,1 @@
+abstract class I0(val I1: String, I2: Int)

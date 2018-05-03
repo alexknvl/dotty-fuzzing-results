@@ -1,0 +1,2 @@
+trait i0 { def I1: String }
+trait i2 { def I1: Unit }

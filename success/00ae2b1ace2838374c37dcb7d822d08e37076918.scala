@@ -1,0 +1,1 @@
+sealed abstract class i0[I1](i2: String)

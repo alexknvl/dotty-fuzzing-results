@@ -1,0 +1,1 @@
+class i0(i0: Int, val i1: Int)

@@ -1,0 +1,1 @@
+case class i0(i1: Int, i2: Int, i3: Int)

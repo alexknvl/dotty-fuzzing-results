@@ -1,0 +1,1 @@
+sealed trait I0

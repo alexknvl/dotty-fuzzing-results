@@ -1,0 +1,1 @@
+sealed abstract class i0 private (i1: Int)

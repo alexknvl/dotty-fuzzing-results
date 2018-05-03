@@ -1,0 +1,1 @@
+class i0[i1 <: Comparable[i1]]

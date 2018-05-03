@@ -1,0 +1,4 @@
+class I0 {
+def i1(i2: (Int => Int, Int) => Int) = ???
+}
+class I3

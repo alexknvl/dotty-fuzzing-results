@@ -1,0 +1,4 @@
+object I0 extends App {
+var I0: Int = 1
+var i1 = 4
+}

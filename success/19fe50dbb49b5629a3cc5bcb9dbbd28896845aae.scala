@@ -1,0 +1,1 @@
+abstract class i0[I1, i2[i2, i3]]

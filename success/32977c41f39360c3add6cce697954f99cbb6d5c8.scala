@@ -1,0 +1,1 @@
+class I0(I0: Any, I1: Int)

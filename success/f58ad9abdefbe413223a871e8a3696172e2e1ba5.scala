@@ -1,0 +1,1 @@
+class I0[I1 <: I2, I2 >: List[_]](I3: I1, i4: I2)

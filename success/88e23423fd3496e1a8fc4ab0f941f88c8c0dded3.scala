@@ -1,0 +1,1 @@
+trait I0 { def Float(i1: Int): Double = i1; def I2 = (Int, Int) }

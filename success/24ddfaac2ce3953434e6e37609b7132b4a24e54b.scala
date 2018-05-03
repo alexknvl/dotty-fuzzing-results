@@ -1,0 +1,1 @@
+case class i0(@volatile var i0: String)

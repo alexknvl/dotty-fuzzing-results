@@ -1,0 +1,1 @@
+trait i0[I1 <: i0[_]] { def map(I1: Array[Byte]): Double }

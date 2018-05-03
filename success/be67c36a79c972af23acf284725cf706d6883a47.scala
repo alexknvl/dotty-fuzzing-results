@@ -1,0 +1,1 @@
+class i0[i1](I2: { type I3 = i1 })

@@ -1,0 +1,1 @@
+abstract class I0(i1: Int, i2: String, contains: String)

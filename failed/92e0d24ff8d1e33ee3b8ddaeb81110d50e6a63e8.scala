@@ -1,0 +1,1 @@
+class x0 extends this

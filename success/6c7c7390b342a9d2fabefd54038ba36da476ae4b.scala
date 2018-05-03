@@ -1,0 +1,1 @@
+class i0(i1: Int, var i2: Int)

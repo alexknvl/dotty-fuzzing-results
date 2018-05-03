@@ -1,0 +1,1 @@
+trait I0[-I0, +i1, i2] { def i2: i1 }

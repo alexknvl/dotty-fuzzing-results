@@ -1,0 +1,1 @@
+trait i0 { type Object }

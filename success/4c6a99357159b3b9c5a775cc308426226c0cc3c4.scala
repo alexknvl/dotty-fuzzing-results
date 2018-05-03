@@ -1,0 +1,1 @@
+abstract class I0(erased i1: Int, i2: Int)

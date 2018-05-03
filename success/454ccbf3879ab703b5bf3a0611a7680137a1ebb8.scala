@@ -1,0 +1,4 @@
+class I0 {
+def i1: Double = 1000000
+}
+object i1

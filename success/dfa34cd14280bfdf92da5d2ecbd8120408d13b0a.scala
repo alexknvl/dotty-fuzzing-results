@@ -1,0 +1,1 @@
+class I0(@volatile val i1: Unit)

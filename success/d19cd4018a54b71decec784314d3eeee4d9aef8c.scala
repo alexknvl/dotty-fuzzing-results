@@ -1,0 +1,1 @@
+class i0(val i0: String) extends AnyVal {}

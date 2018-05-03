@@ -1,0 +1,4 @@
+class I0 {
+def i1: Unit = {
+val I2 = new { def I2 = "" } }
+}

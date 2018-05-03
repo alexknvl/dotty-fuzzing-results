@@ -1,0 +1,1 @@
+trait i0[i0] { def apply(i0: Int, I1: Array[_]): Unit = Map() }

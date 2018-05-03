@@ -1,0 +1,1 @@
+class i0(i0: Int*) { def this() = this(1) }

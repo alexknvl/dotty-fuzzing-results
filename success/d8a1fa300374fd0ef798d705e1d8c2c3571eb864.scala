@@ -1,0 +1,1 @@
+package i0 { trait i1 }

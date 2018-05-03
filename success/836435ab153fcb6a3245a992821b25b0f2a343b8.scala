@@ -1,0 +1,1 @@
+abstract class I0[i1, I2 <: List[I2]]

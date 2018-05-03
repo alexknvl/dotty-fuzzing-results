@@ -1,0 +1,3 @@
+class i0 {
+def i1[i2, I3](I3: Int): Int = 35
+}

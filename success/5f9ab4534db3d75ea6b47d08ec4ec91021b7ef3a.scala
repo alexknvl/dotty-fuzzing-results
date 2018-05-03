@@ -1,0 +1,1 @@
+final case class i0[I1, i2](I3: Array[I1], I4: String)

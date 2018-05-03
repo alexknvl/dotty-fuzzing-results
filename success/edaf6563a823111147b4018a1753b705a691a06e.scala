@@ -1,0 +1,1 @@
+case class I0(i1: String, I0: Seq[String], val I2: Float)

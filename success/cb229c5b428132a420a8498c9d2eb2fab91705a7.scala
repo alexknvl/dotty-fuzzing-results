@@ -1,0 +1,1 @@
+class I0(implicit I0: Int) extends AnyVal

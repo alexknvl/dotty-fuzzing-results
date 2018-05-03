@@ -1,0 +1,1 @@
+sealed abstract class I0

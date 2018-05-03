@@ -1,0 +1,1 @@
+class I0 private (I1: String)

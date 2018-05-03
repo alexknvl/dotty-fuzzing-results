@@ -1,0 +1,1 @@
+abstract class I0() { def size: Int = 42; object i1 }

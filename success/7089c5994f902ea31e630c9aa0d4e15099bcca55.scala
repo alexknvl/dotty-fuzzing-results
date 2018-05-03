@@ -1,0 +1,1 @@
+class I0(I0: Int = 2, I1: String)

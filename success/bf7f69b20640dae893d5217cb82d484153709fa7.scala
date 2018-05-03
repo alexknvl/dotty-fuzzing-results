@@ -1,0 +1,1 @@
+trait I0 { this: List[String] => }

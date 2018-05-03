@@ -1,0 +1,1 @@
+class I0(i1: => AnyRef) { def I2(I2: Int) = I2 }

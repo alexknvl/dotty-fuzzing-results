@@ -1,0 +1,1 @@
+sealed abstract class List[+I0]

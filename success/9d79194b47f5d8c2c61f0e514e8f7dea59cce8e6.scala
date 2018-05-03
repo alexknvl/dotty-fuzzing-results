@@ -1,0 +1,1 @@
+class I0(i1: Any) { def I2 = new Array[I0](10) }

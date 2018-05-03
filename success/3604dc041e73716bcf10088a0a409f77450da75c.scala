@@ -1,0 +1,1 @@
+trait I0[-I0, +i1] extends (i1 => Unit)

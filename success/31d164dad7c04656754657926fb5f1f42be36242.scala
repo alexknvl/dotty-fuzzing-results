@@ -1,0 +1,1 @@
+class i0(@volatile var i0: Int)

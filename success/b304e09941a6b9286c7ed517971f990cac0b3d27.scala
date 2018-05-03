@@ -1,0 +1,1 @@
+trait I0 { type i1; class I2() }

@@ -1,0 +1,1 @@
+abstract class i0() { class i1 }

@@ -1,0 +1,1 @@
+trait I0 { lazy val I0: Any with I0 = null; I0 }

@@ -1,0 +1,1 @@
+import scala.i0.{ i1, i1, I2 =>}case(i1) with i0[I2]]() }

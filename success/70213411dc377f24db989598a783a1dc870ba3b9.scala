@@ -1,0 +1,1 @@
+class I0[@specialized I0, @specialized i1](i1: I0, I2: i1)

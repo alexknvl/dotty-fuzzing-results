@@ -1,0 +1,1 @@
+trait I0[I0] { def next: Equiv[I0] = ??? }

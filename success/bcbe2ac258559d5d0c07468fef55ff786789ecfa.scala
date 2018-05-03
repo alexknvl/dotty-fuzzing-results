@@ -1,0 +1,4 @@
+object i0 {
+def main(i0: Array[String]): Unit = {
+val i0 = Nil map { case (_: Any) => } _ }
+}

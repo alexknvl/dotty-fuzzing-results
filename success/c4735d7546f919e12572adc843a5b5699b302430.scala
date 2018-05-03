@@ -1,0 +1,1 @@
+object `package` { sealed class i0 }

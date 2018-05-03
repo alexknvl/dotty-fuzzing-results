@@ -1,0 +1,1 @@
+class i0(i0: Any, I1: Option[Int])

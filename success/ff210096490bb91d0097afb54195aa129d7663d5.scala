@@ -1,0 +1,1 @@
+sealed abstract class i0(erased I1: Int)

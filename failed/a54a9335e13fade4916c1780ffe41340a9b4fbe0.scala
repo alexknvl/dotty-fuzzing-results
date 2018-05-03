@@ -1,0 +1,58 @@
+import language.dynamics
+class i0 extends scala.Dynamic {
+def apply(i0: String): Int = 1
+def i5: 1 | 2 = ???
+def i5(i5: Int): Int = i0
+}
+object i5 extends language {
+protected[implicit] def i0(i5: String) = 2
+}
+object i5 {
+implicit def i5(i5: Boolean) = ???
+}
+object i5 {
+def unapply(i5: Any) = i5 match {
+case i0 => super
+abstract class i0 {
+class i0 {
+type i5;
+def i5: i5;
+}
+}
+object i5 {
+def i5: Unit
+}
+abstract class i5 extends i5 {
+type i0 = i5 { type i5 <: i0 }
+val i5: i0
+val i5: i5
+}
+trait i5 extends i0 {
+type i5 >: Null <: AnyRef with i0
+trait i5
+new i0 { type i5 }
+type i5 = i0#i5 = new i5 { type i5 }
+type i5 = Int val i5: i0 = new i5 { type i5 = Boolean }
+val i1: i5 = i5#i5
+}
+class i1 extends i5 {
+type i5
+type i5
+type i4 <: i1
+type i5
+type i5 <: i5
+type i5 <: AnyRef with i5
+trait i5 extends i5
+override object i2 extends i5
+type i5[i2] <: I3 with i5 { type i5 = i5 }
+}
+trait i5 extends i5 {
+var i1: Int = 5
+}
+trait i1 extends i5 with i5
+class i2 {
+def i5: String
+}
+abstract class i5 extends i5 {
+override def i0: Int = 5
+}

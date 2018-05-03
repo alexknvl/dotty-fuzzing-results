@@ -1,0 +1,1 @@
+trait I0[I1] { def I2: List[String] }

@@ -1,0 +1,1 @@
+case class I0[I1, I2 <: Int](val I2: List[String]) extends AnyVal {}

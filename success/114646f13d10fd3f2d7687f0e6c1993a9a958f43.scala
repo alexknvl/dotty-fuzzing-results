@@ -1,0 +1,1 @@
+case class I0(private val I0: String, val i1: Boolean)

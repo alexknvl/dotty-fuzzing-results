@@ -1,0 +1,1 @@
+final case class I0(I1: Double, i2: Int)

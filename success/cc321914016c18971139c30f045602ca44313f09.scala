@@ -1,0 +1,1 @@
+object i0 { protected abstract class i1 }

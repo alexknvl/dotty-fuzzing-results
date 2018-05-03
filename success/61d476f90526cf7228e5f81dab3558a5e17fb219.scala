@@ -1,0 +1,3 @@
+trait i0[+i0] {
+val i0: i0
+}

@@ -1,0 +1,1 @@
+case class I0[i1, i2](i3: i1)

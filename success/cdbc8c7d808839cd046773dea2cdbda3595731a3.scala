@@ -1,0 +1,1 @@
+trait i0[@specialized +i0, I1] {}

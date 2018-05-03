@@ -1,0 +1,1 @@
+abstract class i0[i0, @specialized i1](i2: i0)

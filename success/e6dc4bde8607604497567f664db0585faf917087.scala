@@ -1,0 +1,1 @@
+class i0[i0, I1](I1: Int, i2: I1 = i0)

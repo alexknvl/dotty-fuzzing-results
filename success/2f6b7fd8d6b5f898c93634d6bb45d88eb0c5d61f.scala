@@ -1,0 +1,1 @@
+class i0[I1](I1: Int, private val I2: String)

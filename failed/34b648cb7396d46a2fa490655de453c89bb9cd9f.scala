@@ -1,0 +1,9 @@
+import Ordering.Implicits._
+import I0.{ I1 => } var I2: Int => Int = super.type
+}
+class I0[I1] {
+private[this] val I3: Int = 0
+private val I3 = ""
+def unapply[I2](I3: Int): Boolean =
+ClassTag(I1 == I1)
+}

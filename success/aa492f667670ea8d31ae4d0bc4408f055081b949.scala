@@ -1,0 +1,1 @@
+abstract class I0[i1, Map, Double](i1: List[String] => String)

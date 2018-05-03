@@ -1,0 +1,4 @@
+class I0 {
+def I1 = 10
+def I1(i2: String => Unit) = ()
+}

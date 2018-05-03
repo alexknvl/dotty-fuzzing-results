@@ -1,0 +1,1 @@
+trait i0[i1 <: List[i1]]

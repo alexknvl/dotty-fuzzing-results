@@ -1,0 +1,1 @@
+abstract class i0[+I1, +i2 <: AnyRef](i3: I1)

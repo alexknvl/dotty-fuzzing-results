@@ -1,0 +1,4 @@
+case class i0(i1: Boolean)
+object i1 {
+implicit def i0(i2: String): String = ""
+}

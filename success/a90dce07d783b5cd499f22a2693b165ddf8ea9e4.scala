@@ -1,0 +1,1 @@
+object `package` { object I0 }
