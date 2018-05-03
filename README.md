@@ -24,7 +24,7 @@ Each line below corresponds to a unique stacktrace signature. These stats are **
 
 97 different signatures in total:
 
-| Signature     | Count        |
+| Signature     | Frequency in `failed`        |
 | ------------- |-------------:|
 | AE-cd393ad1a85496e16e4a95af4a557e75779c15ea | 2940 |
 | AE-bce1c7762ed427e287e63ec7c139bec286987c93 | 674 |
