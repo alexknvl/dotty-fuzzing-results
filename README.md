@@ -7,6 +7,8 @@
 
 # Stats
 
+Each line below corresponds to a unique stacktrace signature.
+
 ```
 97 different signatures in total:
    2940 exception AE-cd393ad1a85496e16e4a95af4a557e75779c15ea
