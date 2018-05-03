@@ -7,7 +7,7 @@
 
 # Stats
 
-Each line below corresponds to a unique stacktrace signature.
+Each line below corresponds to a unique stacktrace signature. These stats are **current**, and were recently tested on `master` branch.
 
 ##### Glossary
  * `AE` - `AssertionError`
