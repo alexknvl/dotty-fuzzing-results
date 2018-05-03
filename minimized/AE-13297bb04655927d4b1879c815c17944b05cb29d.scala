@@ -1,0 +1,5 @@
+// TEST-KEY       = AE-13297bb04655927d4b1879c815c17944b05cb29d
+// STANDALONE-KEY = AE-2072c7acf269536d372ca65d7a5ae8a1d5b04d0e
+
+object x0 {
+      List(x1 x1 => 
