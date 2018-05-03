@@ -8,6 +8,7 @@
 # Stats
 
 ```
+97 different signatures in total:
    2940 exception AE-cd393ad1a85496e16e4a95af4a557e75779c15ea
     674 exception AE-bce1c7762ed427e287e63ec7c139bec286987c93
     302 exception AE-270b484181ea429a28eaf801116ca12272259d92
