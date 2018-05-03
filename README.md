@@ -106,3 +106,16 @@
       1 exception IOOBE-1b4035e1d5b6023ecd1ef2673278057b5a3bb44c
       1 exception AE-c00496e7589bb167f672670aac2ccf813dee6449
 ```
+
+# Glossary
+ * `AE` - `AssertionError`
+ * `CCE` - `ClassCastException`
+ * `E` - `java.lang.Error`
+ * `TUATE` - `dotty.tools.dotc.ast.Trees$UnAssignedTypeException`
+ * `TTE` - `dotty.tools.dotc.core.Types$TypeError`
+ * `IOOBE` - `IndexOutOfBoundsException`
+ * `ME` - `MatchError`
+ * `NPE` - `NullPointerException`
+ * `SOE` - `StackOverflowError`
+ * `NSEE` - `NoSuchElementException`
+ * `UOE` - `UnsupportedOperationError`
