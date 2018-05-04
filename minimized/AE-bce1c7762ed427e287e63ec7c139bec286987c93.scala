@@ -1,0 +1,4 @@
+// TEST-KEY       = AE-bce1c7762ed427e287e63ec7c139bec286987c93
+// STANDALONE-KEY = AE-a99c3dc1fae92600c8c8c8217a5b93a9f32311f3
+
+class x0[x1 <:x2 & _
