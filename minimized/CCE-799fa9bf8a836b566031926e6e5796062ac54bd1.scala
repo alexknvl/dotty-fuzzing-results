@@ -1,0 +1,5 @@
+// TEST-KEY       = CCE-799fa9bf8a836b566031926e6e5796062ac54bd1
+// STANDALONE-KEY = CCE-799fa9bf8a836b566031926e6e5796062ac54bd1
+
+trait x0[x0[]] {
+(x1:x0[_):x0[

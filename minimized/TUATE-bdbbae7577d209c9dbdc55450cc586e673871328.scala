@@ -1,0 +1,6 @@
+// TEST-KEY       = TUATE-bdbbae7577d209c9dbdc55450cc586e673871328
+// STANDALONE-KEY = TUATE-7ae6c365725263c617a99f965fff5767e425742c
+
+class x0 {
+trait x0[]
+x0[x0 { type }{
