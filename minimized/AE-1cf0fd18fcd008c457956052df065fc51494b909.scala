@@ -1,0 +1,4 @@
+// TEST-KEY       = AE-1cf0fd18fcd008c457956052df065fc51494b909
+// STANDALONE-KEY = AE-22d86ee7050f9a59ac1dfccde97773dbea19b3b0
+
+erased enum
