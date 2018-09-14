@@ -1,0 +1,3 @@
+class i0 {
+val i0: Double = sys.error("")
+}

@@ -1,0 +1,1 @@
+trait I0 { final def I1(i2: String*): Int = ??? }

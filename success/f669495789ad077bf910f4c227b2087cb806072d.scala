@@ -1,0 +1,1 @@
+object I0 { private class i1 }

@@ -1,0 +1,4 @@
+trait i0
+trait I1
+trait i2
+class i3 extends i2

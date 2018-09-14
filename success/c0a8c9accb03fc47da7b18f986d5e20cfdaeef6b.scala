@@ -1,0 +1,5 @@
+object I0 {
+sealed trait I0
+object i1 {
+def I2: I0 {} = i1.I2 }
+}

@@ -1,0 +1,1 @@
+class i0[i0,Unit](val i0: i0)

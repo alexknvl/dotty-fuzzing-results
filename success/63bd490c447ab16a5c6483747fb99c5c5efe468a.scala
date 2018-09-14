@@ -1,0 +1,1 @@
+class I0(i1: Long = 0) extends AnyVal {}

@@ -1,0 +1,1 @@
+object I0 { ((sys: Any) => I0) }

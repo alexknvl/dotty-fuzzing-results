@@ -1,0 +1,1 @@
+class i0(@volatile i0: Int)
